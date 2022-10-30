@@ -1,0 +1,53 @@
+.heading{
+    background-color: #d9dfbd;
+    text-align: center;
+   height: 150px;
+   width: 100%;
+
+   }
+   body{
+    font-size:8px;
+    font-family: sans-serif;
+    background-color: #d9dfbd
+    ;
+   }
+   h1{
+   padding-top: 25px;
+   }
+   #img-div{
+    max-width: 100%;
+    height: auto;
+    padding-bottom:15px;
+    display: flex;
+   padding-right: auto;
+    justify-content: center;
+    margin: 15px,15px ;
+   }
+   .figcaption{
+    padding-top: 15px;
+    text-align: center;
+    color: red;
+    line-height: 5px;
+    margin-bottom: 10px;
+   }
+   li{
+    margin-left: 30%;
+    margin-right: 0
+   }
+   ul{
+    text-align: left;
+    line-height:  40px;
+   }
+   p{
+    text-align: center;
+   }
+   #wikientry{
+    margin-bottom: 20px;
+   }
+   img{
+    max-width: 100%;
+    display: block;
+   }
+   #tribute-info{
+    max-width: 100%
+   }
